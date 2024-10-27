@@ -5,9 +5,8 @@
 <pre>
 <code>// ==UserScript==
 // @name         Khan Academy Bot - Remake
-// @version      1.0.0
-// @author       Danger (@dangerprogrammer)
 // @description  Khan Academy Bot Remake
+// @version      1.0.0
 // @author       Patrick (@dangerprogrammer)
 // @match        https://*.khanacademy.org/*
 // @icon         https://www.google.com/s2/favicons?domain=khanacademy.org
