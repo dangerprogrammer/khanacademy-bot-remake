@@ -10,6 +10,8 @@
 // @author       Patrick (@dangerprogrammer)
 // @match        https://*.khanacademy.org/*
 // @icon         https://www.google.com/s2/favicons?domain=khanacademy.org
-// @require      https://raw.githubusercontent.com/dangerprogrammer/khanacademy-bot-remake/refs/heads/main/main.js
+// @require      https://raw.githubusercontent.com/dangerprogrammer/khanacademy-bot-remake/refs/heads/main/assets/tools.js
+// @require      https://raw.githubusercontent.com/dangerprogrammer/khanacademy-bot-remake/refs/heads/main/assets/style.js
+// @require      https://raw.githubusercontent.com/dangerprogrammer/khanacademy-bot-remake/refs/heads/main/assets/main.js
 // @grant        none
 // ==/UserScript==</code></pre>
