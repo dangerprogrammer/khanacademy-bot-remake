@@ -8,7 +8,8 @@
 // @version      1.0.0
 // @author       Danger (@dangerprogrammer)
 // @description  Khan Academy Bot Remake
-// @match        https://www.khanacademy.org/*
+// @author       Patrick (@dangerprogrammer)
+// @match        https://*.khanacademy.org/*
 // @icon         https://www.google.com/s2/favicons?domain=khanacademy.org
 // @require      https://raw.githubusercontent.com/dangerprogrammer/khanacademy-bot-remake/refs/heads/main/main.js
 // @grant        none
